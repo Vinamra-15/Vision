@@ -1,7 +1,7 @@
 # Team Vision
 ## Automation of driverless cars and drowsiness detection in normal cars
 
-### This project basically contains three parts such as obstacle detection and speed regulation, traffic light detection as well as drowsines detection.
+### This project basically contains three parts: obstacle detection and speed regulation, traffic light detection and drowsines detection.
 ### With this project we aim to automate driverless cars on roads and giving it proper signals so that it could operate safely as well as through drowsiness detection we aim to reduce accidents caused due to drowsiness of drivers.
 
 #### The main tech stack we used in this project is OpenCV for object detection. 
